@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
-    "mongoose": "^6.11.1"
+    "mongoose": "^6.12.7"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
