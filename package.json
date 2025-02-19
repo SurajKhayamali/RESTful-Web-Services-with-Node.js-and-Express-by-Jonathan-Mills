@@ -19,7 +19,7 @@
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-import": "^2.18.2",
-    "mocha": "^10.2.0",
+    "mocha": "^10.8.2",
     "nodemon": "^2.0.22",
     "should": "^13.2.3",
     "sinon": "^7.3.2",
